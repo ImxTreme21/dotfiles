@@ -1,6 +1,7 @@
 # Arch + Hyprland 
 
 > "Thought I could charge my phone faster by plugging it into itself. Now it won't stop sending selfies to the toaster." – Benito Mussolini (probably)
+
 My personal hyprland config, I spend a little too much on this bc I'm new to linux in general. I use arch btw.
 
 The original config is by [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) and I copied some stuff like the wlogout and rofi config from [this guy](https://www.youtube.com/watch?v=_Capa8hBaPk)
