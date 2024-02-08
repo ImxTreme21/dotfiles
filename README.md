@@ -20,9 +20,6 @@ The original config is by [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) 
 
 ![Screenshot_07-Feb_20-04-30_16146](https://github.com/ImxTreme21/dotfiles/assets/69317502/0bc930fa-587e-4309-98c7-2d096b2bbd44)
 
-![Screenshot_07-Feb_20-04-30_16146](https://github.com/ImxTreme21/dotfiles/assets/69317502/c6abc488-4ba2-45ed-989f-3fe916687586)
-
-
 # Installation
 
 I don't know how I managed to get this to work for me, let alone how to make it work on someone else's computer lol. (prolly just copy the stuff inside the folders and paste idk)
