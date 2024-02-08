@@ -6,6 +6,7 @@ My personal hyprland config, I spend a little too much on this bc I'm new to lin
 
 The original config is by [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots) and I copied some stuff like the wlogout and rofi config from [this guy](https://www.youtube.com/watch?v=_Capa8hBaPk)
 
+The icon pack is [this](https://www.gnome-look.org/p/1215834/)
 # Gallery 
 
 
