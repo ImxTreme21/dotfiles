@@ -28,3 +28,5 @@ I don't know how I managed to get this to work for me, let alone how to make it 
 # Hotel?
 
 Trivago
+
+idk why neofetch says the window manager is sway, it is not, but idrc
